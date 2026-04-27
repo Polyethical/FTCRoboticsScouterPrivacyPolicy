@@ -1,4 +1,3 @@
-# FTCRoboticsScouterPrivacyPolicy
 
 <html lang="en">
 <head>
